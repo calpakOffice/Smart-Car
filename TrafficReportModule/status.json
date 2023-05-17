@@ -1,0 +1,32 @@
+[
+    {
+        "date": "22:03:08",
+        "description": "You close to truck (95%) 17.582416534423828 cm",
+        "severaty": "Warning"
+    },
+    {
+        "date": "22:03:11",
+        "description": "You close to truck (67%) 10.420560836791992 cm",
+        "severaty": "Warning"
+    },
+    {
+        "date": "22:03:38",
+        "description": "You close to bicycle (93%) 28.550148010253906 cm",
+        "severaty": "Warning"
+    },
+    {
+        "date": "22:03:41",
+        "description": "You close to bicycle (96%) 20.30205726623535 cm",
+        "severaty": "Warning"
+    },
+    {
+        "date": "22:03:43",
+        "description": "You close to bicycle (94%) 13.148307800292969 cm",
+        "severaty": "Warning"
+    },
+    {
+        "date": "22:03:49",
+        "description": "You close to crash in bicycle (88%) 4.884004592895508 cm",
+        "severaty": "Error"
+    }
+]
